@@ -1,0 +1,12 @@
+/node_modules
+npm-debug.log
+yarn-error.log
+/tests/node_modules
+.DS_Store
+/public
+.vscode
+
+# Ignore compiled CSS
+/docs/static/assets/ethereal.css
+/docs/static/assets/ethereal.min.css
+/dist

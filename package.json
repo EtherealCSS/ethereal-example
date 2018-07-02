@@ -1,0 +1,23 @@
+{
+  "name": "ethereal-example",
+  "version": "1.0.0",
+  "description": "Ethereal.css example",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtherealCSS/ethereal-example.git"
+  },
+  "keywords": [],
+  "author": "Robby <ta7382@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtherealCSS/ethereal-example/issues"
+  },
+  "homepage": "https://github.com/EtherealCSS/ethereal-example#readme"
+}
