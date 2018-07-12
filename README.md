@@ -10,6 +10,7 @@
 
 - [CMS](https://etherealcss.github.io/ethereal-example/cms)
 - [Register](https://etherealcss.github.io/ethereal-example/register)
+- [Dashboard](https://etherealcss.github.io/ethereal-example/dashboard)
 
 ## Contributing
 
